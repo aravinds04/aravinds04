@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravinds04
-- 👀 I’m interested in Software Architecture and Deaigb
+- 👀 I’m interested in Software Architecture and Design
 - 🌱 I’m currently learning Salesforce.
 
 <!---
